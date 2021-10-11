@@ -1,0 +1,13 @@
+**hi it's mу**
+
+I'll tell you about myself, but a little later
+- 👋 Hi, I’m @JustUser335
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+JustUser335/JustUser335 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
