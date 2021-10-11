@@ -1,4 +1,4 @@
-**hi it's mу**
+**hi it's me**
 
 I'll tell you about myself, but a little later
 - 👋 Hi, I’m @JustUser335
