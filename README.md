@@ -1,11 +1,11 @@
 **hi it's me**
 
 I'll tell you about myself, but a little later
-- 👋 Hi, I’m @JustUser335
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Stanislav
+- 👀 I’m interested Python and everything around him
+- 🌱 I’m currently learning Pyton
+- 💞️ I’m looking to collaborate
+- 📫 How to reach me? tg @sgrun235
 
 [![Years Badge](https://badges.pufler.dev/years/JustUser335)](https://badges.pufler.dev)
 <!---
