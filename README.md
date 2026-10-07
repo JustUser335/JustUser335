@@ -1,6 +1,6 @@
 **hi it's me**
 
-I'll tell you about myself, but a little later
+A little about myself
 - 👋 Hi, I’m Stanislav
 - 👀 I’m interested Python and everything around him
 - 🌱 I’m currently learning Pyton
