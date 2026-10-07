@@ -3,7 +3,7 @@
 A little about myself
 - 👋 Hi, I’m Stanislav
 - 👀 I’m interested Python and everything around him
-- 🌱 I’m currently learning Pyton
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate
 - 📫 How to reach me? tg @sgrun235
 
